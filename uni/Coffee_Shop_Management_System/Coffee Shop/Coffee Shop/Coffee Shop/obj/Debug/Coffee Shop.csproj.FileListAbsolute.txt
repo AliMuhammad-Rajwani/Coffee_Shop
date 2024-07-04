@@ -1,0 +1,70 @@
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.LoginForm.resources
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+E:\6th Semester\OOP 2\Final\Project\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.MainForm.resources
+D:\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+D:\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+D:\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.SuggestedBindingRedirects.cache
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.LoginForm.resources
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.MainForm.resources
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+D:\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.LoginForm.resources
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.MainForm.resources
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\user\Downloads\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.MainForm2.resources
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\createacc.mdf
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\createacc_log.ldf
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\order.mdf
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\order_log.ldf
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Createacc.resources
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.LoginForm.resources
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.MainForm2.resources
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Menu.resources
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\Ali Muhammed\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\createacc.mdf
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\createacc_log.ldf
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\order.mdf
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\order_log.ldf
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Createacc.resources
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.LoginForm.resources
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.MainForm2.resources
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Menu.resources
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\alimu\Desktop\uni\Coffee_Shop_Management_System\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
